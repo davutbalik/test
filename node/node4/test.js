@@ -7,3 +7,4 @@ fs.readFile('index.html',(error,data)=>{
     console.log(data.toString());
     console.log("Readed...");
 });
+
